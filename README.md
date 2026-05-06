@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# Voilà la version GitHub
